@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074160726787",
+    "project_id": "chatcourse-146a1",
+    "storage_bucket": "chatcourse-146a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074160726787:android:09b9738f6a2d3eace4ef36",
+        "android_client_info": {
+          "package_name": "com.example.chat_tharwat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrGBOACLoiFjh6NRWwQtfrI0vhUJ1zock"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
